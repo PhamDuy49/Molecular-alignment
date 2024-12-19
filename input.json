@@ -1,0 +1,26 @@
+{
+
+  "laser": {
+    "intensity": 0,
+    "fwhm": 70,
+    "omega": 0.057,
+    "step": 50
+  },
+
+  "molecules": {
+    "type": 2,
+    "name": "OCS",
+    "B": 0.2029,
+    "delta_alpha": 4.04,
+    "jMax": 60,
+    "mMax": 50,
+    "deg": 91,
+    "g_even": 1,
+    "g_odd": 1
+  },
+
+  "temperature": 100,
+  "t_start": 0,
+  "t_end": 150000,
+  "t_step": 500
+}
